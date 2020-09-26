@@ -11,8 +11,9 @@ In this project, a "Lirycs" API was used to search for lyrics by the artists' na
 <br>
 <b>
 Paginação para não acumular muita informação em apenas uma pagina<br>
-Pagination to not accumulate too much information on the same page.<br>
- ![pag1](https://user-images.githubusercontent.com/65626953/94342070-d6d2ff80-ffe4-11ea-83e3-980dbd270bcc.jpg)
+Pagination to not accumulate too much information on the same page
+ 
+![pag1](https://user-images.githubusercontent.com/65626953/94342070-d6d2ff80-ffe4-11ea-83e3-980dbd270bcc.jpg)
 
 
 <b>Após clicar no botão "Ver letra",a letra da musica é mostrada.<br>
