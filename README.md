@@ -2,4 +2,17 @@
 Neste projeto foi utilizada a API "Lirycs" para buscar letras de musicas pelo nome do Artistas.
 
 In this project, a "Lirycs" API was used to search for lyrics by the artists' names.
-<img width="400" height="400"src="/elcioroberto95/Lyrics_Search/blob/master/Sem%20t%C3%ADtulo.jpg?raw=true" alt="Sem título.jpg">
+
+<b>Visual da pagina inicial/Home page.</b>
+ 
+![capa](https://user-images.githubusercontent.com/65626953/94328613-44057700-ff8a-11ea-802d-9229b66a6410.jpg)
+<br>
+<b>
+Paginação para não acumular muita informação em apenas uma pagina<br>
+Pagination to not accumulate too much information on the same page.<br>
+  ![pag](https://user-images.githubusercontent.com/65626953/94328756-79f72b00-ff8b-11ea-9213-770c53db61e7.jpg)<br>
+<b>Após clicar no botão "Ver letra",a letra da musica é mostrada.<br>
+After clicking on the "View lyrics" button, the lyrics of the song are displayed.</b><br>
+![letra](https://user-images.githubusercontent.com/65626953/94328714-140aa380-ff8b-11ea-8791-31e7986c2ade.jpg)
+
+<br>
