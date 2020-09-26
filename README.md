@@ -5,7 +5,8 @@ In this project, a "Lirycs" API was used to search for lyrics by the artists' na
 
 <b>Visual da pagina inicial/Home page.</b>
  
-![pag](https://user-images.githubusercontent.com/65626953/94328827-14f00500-ff8c-11ea-80ff-7e4bf8ac42d0.jpg)
+![pag](https://user-images.githubusercontent.com/65626953/94341904-b191c180-ffe3-11ea-9b96-e72649de7c89.jpg)
+
 <br>
 <b>
 Paginação para não acumular muita informação em apenas uma pagina<br>
